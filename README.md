@@ -10,7 +10,7 @@ This service will invoke iam-service using Feign client to validate JWT token
 2. Click Authorize and give the jwt token  to execute needed endpoints
 
 # Architecture of this assessment(customer-service)
-![img_1.png](img_1.png)
+![img.png](img.png)
 
 # Technologies/Frameworks used in local
 1. InteliJ Latest version
